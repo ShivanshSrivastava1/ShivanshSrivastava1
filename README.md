@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=ShivanshSrivastava1)
+
+I'm Shivansh Srivastava, an undergraduate senior studying computer science at Columbia University's School of Engineering and Applied Science. Previously, I worked as a software engineer intern at [Facebook/Meta](https://about.meta.com/) on the Integrity Observation Platform team. I've also worked as a full-stack developer and ML engineer at [Skye](https://joinskye.com/), an up-and-coming coaching startup based in NYC.
+
+- 👯 I’m looking to collaborate on [PyTorch](https://github.com/pytorch/pytorch)
+- 😄 Pronouns: He/him
+- 📫 How to reach me: ss5945@columbia.edu
+
 <!--
 **ShivanshSrivastava1/ShivanshSrivastava1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
