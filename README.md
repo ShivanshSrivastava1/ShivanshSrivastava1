@@ -1,4 +1,4 @@
-### Hello, world! 👋
+### Hello, World! 👋
 
 ![](https://komarev.com/ghpvc/?username=ShivanshSrivastava1)
 
