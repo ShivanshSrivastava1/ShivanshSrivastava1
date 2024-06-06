@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ShivanshSrivastava1)
 
-I'm Shivansh Srivastava. I recently finished my bachelor's degree in computer science at [Columbia University's School of Engineering and Applied Science](https://www.engineering.columbia.edu/), and I'm currently back at Columbia for my master's in computer science. Previously, I worked as a software engineer intern at [Facebook/Meta](https://about.meta.com/), where I did back-end work as part of the Integrity Observation Platform team. I've also worked as a full-stack developer and ML engineer at [Skye](https://joinskye.com/), an up-and-coming coaching startup based in NYC.
+I'm Shivansh Srivastava. I recently finished my bachelor's degree in computer science at [Columbia University's School of Engineering and Applied Science](https://www.engineering.columbia.edu/), and I'm currently back at Columbia for my master's in computer science. This summer, I'm interning at [Google](https://about.google) as a software engineer for the Google Cloud Networking team. Previously, I worked as a software engineer intern at [Facebook/Meta](https://about.meta.com/), where I did back-end work as part of the Integrity Observation Platform team. I've also worked as a full-stack developer and ML engineer at [Skye](https://joinskye.com/), an up-and-coming coaching startup based in NYC.
 
 - 👯 I’m looking to collaborate on [Matplotlib](https://github.com/matplotlib/matplotlib)
 - 😄 Pronouns: He/him
