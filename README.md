@@ -7,8 +7,8 @@ I'm Shivansh Srivastava. I finished my bachelor's degree in computer science at 
 During my time at Columbia, I've been a TA for the following courses:
 - COMS 4156: Advanced Software Engineering with [Prof. Gail Kaiser](https://www.cs.columbia.edu/~kaiser/) - Fall 2024
 - COMS 4705: Natural Language Processing with [Prof. Daniel Bauer](https://www.cs.columbia.edu/~bauer/) - Fall 2022, Spring 2023, Summer 2023, Spring 2024
-- COMS 4995: Deep Learning for Computer Vision with [Prof. Peter Belhumeur](https://www.peternbelhumeur.com) - Fall 2023
-- COMS 6998: Advanced Topics in Deep Learning with [Prof. Peter Belhumeur](https://www.peternbelhumeur.com) - Spring 2024
+- COMS 4995: Deep Learning for Computer Vision with [Prof. Peter Belhumeur](https://www.peternbelhumeur.com) - Fall 2023 (Head TA)
+- COMS 6998: Advanced Topics in Deep Learning with [Prof. Peter Belhumeur](https://www.peternbelhumeur.com) - Spring 2024 (Head TA)
 
 Please feel free to reach out!
 - 😄 Pronouns: he/him
